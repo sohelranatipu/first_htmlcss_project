@@ -1,0 +1,17 @@
+@media(max-width: 991px){
+	.navbar a{
+		font-size: 25px;
+	}
+}
+@media(max-width: 767px){
+	.navbar a{
+		font-size: 20px;
+	}
+	.banner h2{
+		font-size: 25px;
+	}
+	.about .media {
+		 margin-left: 60px;
+	}
+	 
+}

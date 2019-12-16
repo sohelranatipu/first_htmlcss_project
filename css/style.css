@@ -1,0 +1,187 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+/*Navbar Section */
+.navbar{
+	background: #87509C;
+	color: white;
+}
+.navbar a{
+	color: white;
+	margin:0;
+	padding: 0;
+} 
+.navbar a:hover{	 
+	background: #643A79;
+}
+.navbar img{
+	cursor: pointer;
+}
+
+/*Banner Section */
+.banner{
+	background: #87509C;
+}
+.banner-content button{
+	background: #EB7D4B;
+}
+.btn-group-lg > .btn, .btn-lg {
+    padding: 0.5rem 3rem;
+}
+
+
+/*services Section */
+.services{
+	background: #17C2A4;
+}
+.services h1{
+	font-size: 40px;
+}
+.services hr{
+	width: 50px;
+	border:2px solid #14A58C;
+}
+.service-content h1{
+	font-size: 24px;
+}
+
+
+/*Team Section */
+.team{
+	background: #E7F1F8;
+}
+.team h1{
+	color: #3C4761;
+	font-size: 41px;
+}
+.team p{
+	color: #3C4761;
+}
+.team hr{
+	width: 50px;
+	border:2px solid #3C4761;
+}
+.social-icon i{
+	font-size: 20px;
+	background: #BDD1DF;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	line-height: 40px;
+	cursor: pointer;
+}
+
+
+/*Skill Section */
+.skill h1{
+	color: #3C4761;
+	font-size: 41px;
+}
+.skill p{
+	color: #3C4761;
+	font-size: 18px;
+}
+.skill hr{
+	width: 50px;
+	border:2px solid #BDD1DF;
+}
+.skill-progress h2{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+/*portfolio Section */
+.portfolio{
+	background: #FFDD99;
+}
+.portfolio h1{
+	color: #3C4761;
+	font-size: 41px;
+}
+.portfolio p{
+	color: #3C4761;
+	font-size: 18px;
+}
+.portfolio hr{
+	width: 50px;
+	border:2px solid #14A58C;
+}
+.portfolio-link a{
+	background: #EBC985;
+}
+.portfolio-link a:hover{
+	background: #FFFFFF;
+}
+.portfolio button{
+	background: #17C2A4;
+}
+
+
+/*About Section */
+.about{
+	background: #D74680;
+}
+.about h1{
+	color: #3C4761;
+	font-size: 41px;
+}
+.about p{
+	color: #3C4761;
+	font-size: 18px;
+}
+.about hr{
+	width: 50px;
+	border:2px solid #14A58C;
+}
+.media-body p{
+	text-decoration: italic;
+}
+.media-body span{
+	color: #F7C594;
+}
+
+
+/*Contact Section */
+.contact{
+	background: #3C5499;
+}
+.contact h1{
+	color: #3C4761;
+	font-size: 41px;
+}
+.contact p{
+	color: #3C4761;
+	font-size: 18px;
+}
+.contact hr{
+	width: 50px;
+	border:2px solid #14A58C;
+}
+.my-form input,.my-form textarea{
+	background: #273A71;
+}
+.form-control{
+	border:none;
+}
+.contact button{
+	background: #30BAE7;
+}
+
+
+/*Footer Section */
+.footer{
+	background: #344B8E;
+ }
+  .footer  a{
+  	color: white;
+  }
+ .footer  a:hover{
+ 	color: #30BAE7
+ }
